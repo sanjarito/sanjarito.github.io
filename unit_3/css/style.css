@@ -1,0 +1,16 @@
+body {
+
+  background-image: url("../images/climbing.jpg");
+
+	background-size: cover;
+  text-align: right;
+}
+
+#slogan {
+	color:white;
+	font-size: 29px;
+}
+
+h1{
+	color:yellow;
+}
