@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Rammetto+One');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Rammetto+One');
+
 body {
 
   background-image: url("../images/climbing.jpg");
@@ -8,9 +11,13 @@ body {
 
 #slogan {
 	color:white;
-	font-size: 29px;
+  word-spacing: 0.2em;
+	font-size: 39px;
+  font-family: 'Amatic SC', cursive;
 }
 
 h1{
 	color:yellow;
+  font-family: 'Rammetto One', cursive;
+  font-weight: 100;
 }
